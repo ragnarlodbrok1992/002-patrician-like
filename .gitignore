@@ -1,2 +1,6 @@
 tags
 
+# Zig stuff
+zig-cache/
+zig-out/
+
